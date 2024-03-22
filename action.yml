@@ -1,5 +1,5 @@
-name: Macro Electron Builder Action
-author: William Hutchinson
+name: Macro Electron Builder Action - Cristiano Version
+author: William Hutchinson & Cristiano
 description: GitHub Action for building and releasing Electron apps
 
 inputs:
